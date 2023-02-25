@@ -1,0 +1,77 @@
+#1
+.Referee
+_prevent user from accessing each other,s files without premission
+
+_Even after a file is deleting and its space re-used
+
+.Illusionist
+_Files can grow (nearly) arbitrarily large
+﻿﻿
+_Files persist even when the machine crashes in the middle of a save
+
+.Glue
+_﻿﻿Named directories, printf,...
+
+
+#2
+.Reliability
+_﻿﻿Does the system do what it was designed to do?
+
+.﻿﻿Availability
+_﻿What portion of the time is the system working?
+
+_﻿﻿Mean Time To Failure (MTTF), Mean Time to Repair
+
+.﻿﻿Security
+_﻿﻿Can the system be compromised by an attacker?
+
+.﻿﻿Privacy
+_﻿﻿Data is accessible only to authorized user
+
+
+#3
+Direct memory access (DMA) is the process of transferring data without the involvement of the processor itself.
+It is often used for transferring data to/from input/output devices.
+ A separate DMA controller is required to handle the transfer.
+ The controller notifies the DSP processor that it is ready for a transfer.
+
+
+#5
+_b_ 1. Keep Current on all Security Patches · 2. Detect and Respond to Intrusions Quickly
+_c_Antivirus software protects your device from viruses that can destroy your data, slow down or crash your device.
+
+
+#6
+_d_because According to the type of program all of the options are currect for example for a programe Communicate with massage better than 
+Through the file system and contrariwise generally in the differnt Conditions answer can be diffrent and we don,t have just one currect
+ answer.
+
+
+#7
+_irtual memory uses both hardware and software to enable a computer to compensate for physical memory shortages,
+ temporarily transferring data from randome
+
+
+#8
+_we can use a virtual machine like VMware.
+
+
+#10
+_Governments use permits to allocate some resources like petroleum, natural gas, etc.
+ A company that wants to drill or mine for example must first get a permit to do so. 
+To isolate misuse government pass legislation that define what misuse is what what the consequence for misuse is.
+ Typically they’ll impose fines or even incarcerate individuals that misuse resources.
+
+#11
+_i want desing operation system contain Reiability , Availability, Security , Privacy
+
+
+#12
+_make a checkpoint at a regular internal as the os is running
+
+
+
+#13
+_portability, performance because as a student we have to use our computer in different places and we use the computer for
+Scientific and research works so posrtability and performance is more importent than other options but of course evrybody 
+prefer a fulloption computer but if i should choose  a item these are my chooise 
