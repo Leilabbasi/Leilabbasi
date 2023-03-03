@@ -1,0 +1,71 @@
+1.1_the software is almost always packaged with associated documentation such as
+requirements, design models, and user manuals.
+
+
+1.2_The specification of what the software should do is owned by the software developer 
+and decisions on software change are madeby the developer but The specification of what
+the software should do is owned by the customer for the software and they make decisions
+ on software changes that are required.
+
+
+1.3_It is usually cheaper, in the long run, to use software engineering methods and
+techniques for software systems rather than just write the programs as if it was a personal
+ programming project. For most types of system, the majority of costs are the costs of
+ changing the software after it has gone into use
+
+
+1.4_The examples of the ethical issued that have an impact on the domain is as follows:
+Confidentiality:  When there is no security arrangement, and the theoretically facilitates
+ the free exchange of information between both the client as well as the worker .
+Competence:  It didn't distort the skill level in such a specific field or topic
+, it is the talent or capacity.Intellectual property rights: It will be mindful 
+of regional intellectual property laws in which the individuals over its mind's
+ constructs are given over a certain amount of time.
+
+
+1.5_
+
+
+1.6_The mentioned fundamental software engineering principles are relevant to all types of
+ software system because software system are not stationary, they need to be updated and
+ maintained to work properly.
+
+
+1.7_Electronic connectivity gives wi-fi conversation via the usage of modern technology like
+ smartphones and laptop systems. In software program improvement, it's far critical for crew
+ individuals to maintain songs in their character improvement processes. Electronic 
+connectivity makes this manner especially stress-free.
+
+
+1.8_Non-certified individuals can misapply software engineering processes, they might make
+the software ineffective for what its designed for this could lead to a waste of resources.
+
+
+1.9_ For each of the clauses in the ACM/IEEE Code of Ethics shown in Figure 1.4, propose an
+appropriate example that illustrates that clause:
+1) Public -> An example of acting in the public's interest is not to share any private information that the software
+engineer has access to. This is an invasion of privacy and could lead to legal issues.
+2) Client and Employer > A good software engineer will not let the needs of the client or the wants of the employer harm the public.
+Being aware and the practice of good ethics in coding is something every software developer and client should discuss.
+3) Product -> A good software engineer would not allow software to be released that they know is faulty and will crash.
+4) Judgement > An example of using good judgement is, if a software engineer is approached by a client that wants them to build 
+software that causes airplanes to crash, the software engineer knows that they must decline since although that may be in the client's
+interest, it is not in the public's.
+5) Management -> For example, Software engineering managers and leaders will not encourage employees to procrastinate
+when they are aware there is a strict deadline coming up.
+6) Profession -> For example, software engineers will not accept payment for inadequate software that they knowingly will not work as 
+intended. This can be dangerous if dealing with personal information.
+7) Colleagues -> An example of following this clause would be a software engineer not stealing their coworkers code without permission.
+8) Self -> For example, a good software engineer will keep up with changes in technology and encourage their team to maintain 
+their software
+in perspective of these changes.
+
+
+
+1.10_ To help counter terrorism, many countries are planning or have developed computer systems that
+track large numbers of their citizens and their actions. Clearly, this has privacy implications. Discuss
+the ethics of working on the development of this type of system.
+**This is a tough decision. I personally believe that countries that are tracking their citizens for the protection of 
+terrorism is a tool that can be dangerous in the hands of the government. I am totally against spying on citizens. One extreme 
+example is the technology used in China to track their citizens and their behavior. This is too much information that 
+no government should have.
