@@ -1,0 +1,134 @@
+2-1
+
+• A system to control antilock braking in a car 
+   o Safety Critical System 
+   o Plan Driven approach with requirements analysed carefully 
+   o Waterfall model most appropriate with formal transformations between different 
+   development stages. 
+
+• A virtual reality system to support software maintenance 
+   o Cutting edge and UI dependent for usability 
+   o Incremental or Spiral with some UI prototyping 
+   o Agile process may be used 
+
+• A university accounting system that replaces an existing system 
+   o Requirements fairly well known 
+   o Reuse based approach is appropriate 
+
+• An interactive travel planning system that helps users plan journeys with the lowest environmental 
+impact 
+   o Complex UI which is stable and reliable 
+   o Incremental development approach most appropriate 
+   o System requirements will change as user experience is gained
+
+2-2
+
+   • Based on the idea of developing initial implementation, getting user feedback and evolving 
+   software through several versions. 
+   
+   • Either plan driven, agile or mixture. 
+   
+   • Customer can evaluate systems at a relatively early stage
+
+2-3
+
+   • Firstly requirements spec involve proposing initial requirements for the system  
+    o Brief descriptions 
+
+   • Refinement stage, reusable components and applications discovered for refinement. 
+    o Modified to reflect available components and system spec is redefined.
+
+2-4
+
+1) User Requirements describe the system functions and features from the perspective of a user. These are 
+usually abstract. System requirements provide a more detailed explanation of the procedure. 
+ 
+2) User requirements are written in plain and natural language. System requirements are more detailed 
+with specific specifications that could be part of a contract. 
+ 
+3) User requirements start with gathering information, identifying important aspects, and understanding 
+them. 
+System Requirements can only be implemented after the user requirements are understood and finalised. 
+
+2-5
+
+Design of architecture: 
+   • System overall structure is defined. 
+   • Discuss reason for interdependency 
+ 
+Design of Database: 
+   • Define structure of database as representation. 
+ 
+Design of interface: 
+   • Interface defined here. 
+   • Ease of use 
+ 
+Component design and selection 
+   • Reusable components matching requirements are defined here 
+ 
+All design activities above should be followed and integrated. Therefore these work together and can be 
+called interdependent
+
+2-6
+
+Software testing: 
+   • Each program is tested for correct functionality 
+   • Complete program divided into small modules, tested individually. (UNIT TESTING) 
+   • Then whole system is tested with the programs tested above. (SYSTEM TESTING) 
+   • Beta version released and end user checks (CUSTOMER TESTING) 
+ 
+Programmers are not the best persons 
+   • Hard to find own errors. 
+   • Best skills to develop but not to test. 
+ 
+2-7
+
+Pros: 
+   • Allows changes to prototype 
+   • Customer sees prototype and modifications made before design is created 
+   • Better implementation 
+   • Satisfied customer 
+ 
+Cons: 
+   • Additional cost for prototype creation 
+   • Delays due to extra time creating prototypes
+
+2-8
+
+   • Prototype anticipates changes required 
+
+   • Requirements engineering prototype helps with elicitation and validation  
+   
+   • System design process: used to explore software solutions in UI development 
+ 
+   • Minimal UI and not intuitive 
+
+   • No error detection 
+
+   • Vague error messages 
+
+   • Not viewed as high quality product, only development aids.
+
+2-9
+
+Adv: 
+   • Focused on software engineering processes and practices used 
+   • Led to significant improvements in capabilities 
+ 
+Disadv: 
+   • Too much overhead in formal process improvement in small companies 
+   • Maturity estimation with agile processes is difficult
+
+2-10
+
+   • Reduce human error in code creation 
+
+   • Potential to produce similar or better software than conventionally produced software 
+   
+   • Cost reduction 
+ 
+   • Standardised components used, increasing software reliability and cost reduction in future 
+   maintenance 
+
+   • Automation assists software to address primary issues in the development process. (complexity, 
+   reliability, and productivity)   
