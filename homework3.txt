@@ -1,0 +1,162 @@
+3-1
+
+   • Team centered, assisting with interaction. 
+   • Phase release, showing updates as they work 
+   • Specification, design, and implementation are interleaved. 
+   • No detailed system spec and design docs is minimized.
+
+3-2
+
+   • Individual and interactions over processes and tools 
+    o This means that the team can focus on the development of working software 
+
+   • Working software over comprehensive documentation 
+    o Rather the programmer’s time is focussed on the development and testing of code. 
+
+   • Customer collaboration over contract negotiation 
+    o This allows useful functionality to be developed and delivered earlier than would be possible 
+    if contracts were required. 
+  
+   • Responding to change over following a plan 
+    o There is significant overhead in changing plans to accommodate change and the inflexibility 
+    of a plan means that work may be done that is later discarded.
+
+3-3
+
+Adv of stories: 
+   • Represent real situations arising so systems support common user operations 
+   • Easy for users to understand and critique stories 
+   • Represent increments of functionality 
+ 
+Disadv: 
+   • Liable to be incomplete 
+   • Focus on functional requirements 
+   • Representing system requirements such as performance and reliability are impossible 
+   • Relationship between architecture and user stories is unclear. 
+
+3-4
+
+   • The test suite could become outdated by the time the actual code is written and not test every 
+   vulnerability that the code may have. 
+
+   • If tests aren’t reviewed, and further tests written, undetected bugs may be in system release. 
+
+3-5
+
+   • Pair programming leads to continuous informal reviewing. Discovers bug quicker than individual 
+   testing. 
+
+   • Informal sharing is implicit. Reducing need for documentation and time required for another’s work 
+   load. 
+
+   • Encourages refactoring – reducing costs of subsequent development and changes in the future can 
+   be done quicker 
+
+   • People are likely to spend less time in fine-grain optimization. Both focus on essential features 
+   which are produced quicker.
+
+3-6
+
+----------------------------------|---------------------------------------------|--------------------------------------------|
+                                  |   Scrum Approach:                           |  Conventional plan-based Approaches:       |
+----------------------------------|---------------------------------------------|--------------------------------------------|
+Effectiveness                     |   Best for small-medium                     |  Best for Large security and safety        |
+applicability:                    |   sized projects.                           |  required projects.                        |
+                                  |                                             |                                            |
+----------------------------------|---------------------------------------------|--------------------------------------------|
+Planning allocation of            |   The whole team is involved in             |  A manager will break down the work        |
+people to projects:               |   theproject. No project managers           |  parts and assigns the parts to teams of   |
+                                  |   Planning is participated by everyone.     |  members involved.                         |
+                                  |                                             |                                            |
+----------------------------------|---------------------------------------------|--------------------------------------------|
+Estimating Cost on                |   Easier to estimate costs as the project   |  Determined during initial planning        |
+projects:                         |   develops throughout the increments of     |  phases. Cost is difficult to determine    |
+                                  |  software development, as the amount        | due to the amount of time needed           |
+                                  |   of time needed for development can be     |  and product feasibility being             |
+                                  |   predicted easily.                         |  undeterminable.                           |
+                                  |                                             |                                            |
+----------------------------------|---------------------------------------------|--------------------------------------------|
+Maintaining team                  |   Teams are always working together on      |  Teams are working on different parts      |
+cohesion:                         |   the same increment and everything is      |  of a system, therefore smaller teams      |
+                                  |   visible to everyone.                      |  work together as opposed to one large     |
+                                  |   Frequent meetings held and tracks         | team working together, not knowing         |
+                                  |   backlog of work                           |  what other teams are doing                |
+                                  |                                             |                                            |
+----------------------------------|---------------------------------------------|--------------------------------------------|
+Managing changes in               |   Lesser number of members in the           |  Requires larger amounts of members        |
+project team                      |   project team due to all everybody         |  to ensure the teams have sufficient       |
+membership:                       |   working together.                         |  members.                                  |
+                                  |                                             |                                            | 
+----------------------------------|---------------------------------------------|--------------------------------------------|
+
+3-7
+
+Use of technology: 
+   • Video conferencing 
+   • Scrummaster should be located with development team to be aware of everyday problems 
+   • Product owner should visit developers to establish good relationships with them 
+   • Real time communication through informal communication, I.E. instant message and video calls. 
+   • Continuous integration, all team members can be aware of state of product at any time 
+   • Common development environment for all teams 
+
+Problems: 
+   • Development requirement daily meetings but not possible in distributed environment
+   • Communication gap can occur between members 
+   • Changes lead to slow the entire development of project 
+   • Pair programming benefits detection and evaluation of errors.  
+
+3-8
+
+1. Project Planning: 
+   
+   a. Essential when developing software with larger teams to ensure right people are available 
+   when needed 
+
+   b. Ensure delivery schedules are aligned 
+
+2. Requirements analysis  
+   
+   a. Important to decide how to distribute work across teams and ensure each team has some 
+   understanding of other teams’ work 
+
+3. Design documentation: 
+
+   a. Import so teams develop independently with having access to software under development. 
+
+4. Risk management: 
+
+   a. Required to ensure all teams understand risks faced and organize their work to minimize 
+   these risks. 
+
+   b. Useful to cope with different delivery schedules. 
+
+3-9
+
+Having to switch from their well-established process to a new process might set them back on time that 
+they could use to develop. 
+
+
+3-10
+
+1. Involve multiple users in the development team. 
+
+   a. Different perspectives 
+
+   b. Better coverage of user tasks 
+
+   c. Disadvantages are cost, and getting user engagement and conflicts. 
+
+2. Change the user who is involved with the team. 
+
+   a. multiple perspectives. 
+
+   b. Disadv. Each user takes time to be productive 
+
+3. Validate user suggestions with other user representatives 
+
+   a. Advantages are independent check on suggestions 
+
+   b. Disadv. Is slowing down development process to do checks. 
+
+
+summery of video
