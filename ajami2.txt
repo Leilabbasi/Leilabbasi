@@ -1,0 +1,107 @@
+2-1
+
+n x86, different stacks are used for kernel & user processes because of security purposes.
+
+The kernel assigns the interrupt dispatch to a common kernel interrupt entry/exit
+
+mechanism which saves pre-interrupt register state before summoning the registered handler(s).
+
+When sending out an interrupt might launch a privilege and/or stack switch,
+
+interrupts that occur while executing user process will switch to use the kernel stack
+
+in place at that point, without saving current state.
+
+2-2
+
+the screen's buffer memory needs to be protected in such a way that only kernel
+ 
+can access it,and only kernel can decide that screen's buffer memory.
+
+2-3
+
+whitout previlaged instructions: not having previlaged instructions ,some process can
+  
+excute some instructions.
+
+2-4
+
+the security checks which are required to implement in a web browser to ensure the excuting
+  
+buggy or malicious scripts don't corrput or cash the browser.
+
+2-5
+
+system calls,interrupts and exceptions.
+
+2-6
+
+start new process, return from system call, return from interrupt, return from expetion
+
+2-7
+
+a-ln the operating system return from an interrupt is used in the situation where software
+
+or hardware come across an event that needs immediate attention.
+
+
+2-8
+
+the expense of a setting switch or interfere with taking care of turns out to be over the top expensive.
+
+2-9
+
+hypervisor running is used by the virtualization in privileged mode to create a virtual machine
+
+shich will run in unprivileged mode.
+
+2-10
+
+Compiler.
+
+2-11
+
+hardware design for I/O virtualization: for I/O virtualization, underlying proccessor architecture
+
+can be designed such that a user level program.
+
+2-12
+
+
+2-13
+
+Yes We can make the program do an illegal action which will cause an exception andthe exception will
+
+ generate an interrupt and transfer form user mode to kernel mode
+
+2-14
+
+Yes We can make the program do an illegal action which will cause an exception andthe exception will
+
+generate an interrupt and transfer form user mode to kernel mode
+
+
+2-15
+
+Interrupt processing
+
+Step 1 − First device issues interrupt to CPU.
+
+Step 2 − Then, the CPU finishes execution of current instruction.
+
+Step 3 − CPU tests for pending interrupt request. If there is one, it sends an acknowledgment to the device which
+
+removes its interrupt signal.
+
+Step 4 − CPU saves program status word onto control stack.
+
+Step 5 − CPU loads the location of the interrupt handler into the PC register.
+
+Step 6 − Save the contents of all registers from the control stack into memory.
+
+Step 7 − Find out the cause of interrupt, or interrupt type or invokes appropriate routine.
+
+Step 8 − Restore saved registers from the stack.
+
+Step 9 − Restore PC to dispatch the original process.
+
